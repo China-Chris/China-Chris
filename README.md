@@ -14,17 +14,16 @@ Github Stats && Most used languages
 -->
 <div align="center">
 <span></span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=China-chris" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=China-chris&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=China-chris&theme=dracula" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=China-chris&layout=compact&langs_count=8&theme=dracula" />
 <span></span>
 </div>
 
 <!--
 GitHub 连续打卡 
--->
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=China-chris" />
 </div>
-
+-->
 <!--
 Github活动统计图 
 <div align="center">
