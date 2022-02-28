@@ -5,8 +5,9 @@
 ### Bonjour première rencontre👋
    
 ### 🤔À propos de moi
-  - Golang 开发者
-  - 喜欢做菜
+  - Golang Développeur 💼
+  - aime cuisiner🍔
+  - souhaite être plus fort💪
 ## Stats
 <!--
 Github Stats && Most used languages
