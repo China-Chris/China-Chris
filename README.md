@@ -1,5 +1,12 @@
-### Bonjour 👋
-   Golang 开发者。
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=%23A70808&center=true&vCenter=true&height=80&lines=Hello%EF%BC%81I%E2%80%99m+Ed" alt="typing-svg">
+</p>
+
+### Bonjour première rencontre👋
+   
+### 🤔À propos de moi
+  - Golang 开发者
+  - 编程世界的小学生
 ## Stats
 <div align="center">
 <span></span>
