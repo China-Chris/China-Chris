@@ -8,12 +8,28 @@
   - Golang 开发者
   - 编程世界的小学生
 ## Stats
+<!--
+Github Stats && Most used languages
+-->
 <div align="center">
 <span></span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=China-chris" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=China-chris&layout=compact&langs_count=8" />
 <span></span>
 </div>
 
+<!--
+GitHub 连续打卡 
+-->
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=China-chris" />
+</div>
+
+<!--
+Github活动统计图 
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=China-chri&theme=minimal" />
+</div>
+-->
 
 <!--
 **China-Chris/China-Chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
