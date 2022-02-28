@@ -6,7 +6,7 @@
    
 ### 🤔À propos de moi
   - Golang 开发者
-  - 编程世界的小学生
+  - 喜欢做菜
 ## Stats
 <!--
 Github Stats && Most used languages
