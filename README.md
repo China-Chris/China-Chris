@@ -20,6 +20,12 @@ Github Stats && Most used languages
 </div>
 
 <!--
+snake
+-->
+![](https://raw.githubusercontent.com/China-chris/main/assets/github-contribution-grid-snake.svg)              
+
+
+<!--
 GitHub 连续打卡 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=China-chris" />
