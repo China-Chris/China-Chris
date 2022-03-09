@@ -19,10 +19,8 @@ Github Stats && Most used languages
 <span></span>
 </div>
 
-<!--
-snake
--->
-           
+![](https://raw.githubusercontent.com/China-Chris/China-Chris/main/assets/github-contribution-grid-snake.svg)                   
+     
 
 <!--
 GitHub 连续打卡 
