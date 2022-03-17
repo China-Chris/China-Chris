@@ -1,10 +1,15 @@
+<!--
+  欢迎图片 
+-->
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=%23A70808&center=true&vCenter=true&height=80&lines=Hello%EF%BC%81I%E2%80%99m+Ed" alt="typing-svg">
 </p>
 
 ### Bonjour première rencontre👋
-   
-### 🤔À propos de moi
+   [![](https://img.shields.io/badge/dynamic/json?label=%E5%BE%AE%E5%8D%9A%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D2558497932&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true)](https://weibo.com/u/2558497932)
+
+
+## 🤔À propos de moi
   - Golang Développeur 💼
   - aime cuisiner🍔
   - défi leetcode 200 questions👯
@@ -13,14 +18,13 @@
 <!--
 Github Stats && Most used languages
 -->
-<div align="center">
+<div align="left">
 <span></span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=China-chris&theme=dracula" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=China-chris&layout=compact&langs_count=8&theme=dracula" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=China-chris&theme=dracula" /><span></span>
+   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=China-chris&layout=compact&langs_count=8&theme=dracula" />
 <span></span>
 </div>
-
-![](https://raw.githubusercontent.com/China-Chris/China-Chris/main/assets/github-contribution-grid-snake.svg)                   
-     
+  
 
 <!--
 GitHub 连续打卡 
