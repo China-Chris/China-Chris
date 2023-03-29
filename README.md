@@ -5,7 +5,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=%23A70808&center=true&vCenter=true&height=80&lines=Hello%EF%BC%81I%E2%80%99m+Ed" alt="typing-svg">
 </p>
 
-### Bonjour première rencontre👋
+### Bonjour 私の友達👋
 <!-- 微博徽章 
 [![](https://img.shields.io/badge/dynamic/json?label=%E5%BE%AE%E5%8D%9A%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D2558497932&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true)](https://weibo.com/u/2558497932)
 -->
