@@ -10,11 +10,12 @@
 [![](https://img.shields.io/badge/dynamic/json?label=%E5%BE%AE%E5%8D%9A%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D2558497932&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true)](https://weibo.com/u/2558497932)
 -->
 
-## 🤔À propos de moi
-  - Golang Développeur 💼
-  - aime cuisiner🍔
-  - défi leetcode 200 questions👯
-  - souhaite être plus fort💪
+## 🤔私について
+  - Golang developer 💼
+  - マクドナルド大好きr🍔
+  - BTC暗号化通貨が好きで、ブロックチェーンの仕事をしています👯
+  - 独立開発者になろうと努力している💪
+  - 独自のブロックチェーンappを作成中🌱
 ## Stats
 <!--
 Github Stats && Most used languages
