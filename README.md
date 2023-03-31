@@ -34,6 +34,9 @@ GitHub 连续打卡
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=China-chris" />
 </div>
 -->
+
+![](https://raw.githubusercontent.com/China-chri/China-chri/main/assets/github-contribution-grid-snake.svg)
+
 <!--
 Github活动统计图 
 <div align="center">
