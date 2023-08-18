@@ -16,6 +16,8 @@
   - BTC暗号化通貨が好きで、ブロックチェーンの仕事をしています👯
   - 独立開発者になろうと努力している💪
   - 独自のブロックチェーンappを作成中🌱
+<img src="./demo.gif "> 
+
 ## 💬連絡して:
 <!-- - Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn) -->
 [![Twitter](https://img.shields.io/badge/@Ed-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Ed17899676)
