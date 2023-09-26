@@ -20,7 +20,7 @@
 <p align="center">
   <img src="./demo.gif "> 
 </p>
-<!--![](https://raw.githubusercontent.com/China-Chris/China-Chris/main/assets/github-contribution-grid-snake.svg) -->
+
 ## 💬連絡して:
 <!-- - Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn) -->
 [![Twitter](https://img.shields.io/badge/@Ed-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Ed17899676)
