@@ -10,7 +10,7 @@
 *I'm not going to be like you.*  
 *I'm doing my own thing now.*
 
-🔨 Building in Web3 · [Twitter](https://twitter.com/Ed17899676)
+🔨 Building in Web3 · [Twitter](https://x.com/Morty_happy)
 
 </td>
 <td width="50%" align="center" valign="middle">
@@ -33,13 +33,13 @@
 <td width="65%" valign="top">
 
 <details open>
-<summary><b>传送门</b></summary>
+<summary><b>Portal</b></summary>
 
 <br/>
 
-**最近在做什么？**
+**What am I building?**
 
-我正在构建 Trench —— 一个专为 AI 设计的区块链基础设施。探索 AI 与 Web3 的交叉点，让智能体拥有自己的经济系统。
+I'm building Trench — a blockchain infrastructure designed specifically for AI. Exploring the intersection of AI and Web3, creating an economic system for intelligent agents.
 
 — [Trench - Blockchain for AI](https://github.com/China-Chris/Trench)
 
