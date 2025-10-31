@@ -1,68 +1,60 @@
-<p align="center">
-  <h3 align="center">👋Bonjour 私の友達⌨️</h3>
-</p>
-<!--
-  欢迎图片 
--->
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=%23A70808&center=true&vCenter=true&height=80&lines=Hello%EF%BC%81I%E2%80%99m+Ed" alt="typing-svg">
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### *"I don't need Rick."*
 
+<img src="./assets/evil-morty-whiskey.jpg" width="200">
 
-## 🤔私について
-  - Golang developer 💼
-  - マクドナルド大好きr🍔
-  - BTC暗号化通貨が好きで、ブロックチェーンの仕事をしています👯
-  - 独立開発者になろうと努力している💪
-  - 独自のブロックチェーンappを作成中🌱
+*I'm not going to follow you anymore.*  
+*I'm not going to be like you.*  
+*I'm doing my own thing now.*
 
-<p align="center">
-  <img src="./demo.gif "> 
-</p>
+🔨 Building in Web3 · [Twitter](https://twitter.com/Ed17899676)
 
+</td>
+<td width="50%" align="center" valign="middle">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=China-Chris&theme=darkhub&no-frame=true&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A&title=MultiLanguage,Stars,Commit,Followers,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
+</td>
+</tr>
+</table>
 
+---
 
-## 💬連絡して:
-<!-- - Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn) -->
-[![Twitter](https://img.shields.io/badge/@Ed-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Ed17899676)
-[![Email](https://img.shields.io/badge/edchiris@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edchiris@gmail.com)
-<!-- - Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951) -->
+<table>
+<tr>
+<td width="35%" align="center" valign="middle">
 
+<img src="./assets/download.png" width="150">
 
+</td>
+<td width="65%" valign="top">
 
+<details open>
+<summary><b>传送门</b></summary>
 
-  
+<br/>
 
-<!--
-GitHub 连续打卡 
+— [博客标题1](#)  
+— [博客标题2](#)  
+— [博客标题3](#)  
+— [博客标题4](#)  
+— [博客标题5](#)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=China-chris" />
+
+> *"Every version of me has lived under our one rule:*  
+> *No Rick is more valuable than another Morty."*
+
 </div>
--->
 
-![](https://raw.githubusercontent.com/China-chri/China-chri/main/assets/github-contribution-grid-snake.svg)
-
-<!--
-Github活动统计图 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=China-chri&theme=minimal" />
-</div>
--->
-
-<!--
-**China-Chris/China-Chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
