@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-left: 40px;">
 
 ### *"I don't need Rick."*
 
@@ -37,11 +37,11 @@
 
 <br/>
 
-— [博客标题1](#)  
-— [博客标题2](#)  
-— [博客标题3](#)  
-— [博客标题4](#)  
-— [博客标题5](#)
+**最近在做什么？**
+
+我正在构建 Trench —— 一个专为 AI 设计的区块链基础设施。探索 AI 与 Web3 的交叉点，让智能体拥有自己的经济系统。
+
+— [Trench - Blockchain for AI](https://github.com/China-Chris/Trench)
 
 </details>
 
